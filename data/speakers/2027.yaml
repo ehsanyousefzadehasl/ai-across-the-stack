@@ -1,0 +1,35 @@
+
+# AI Across the Stack — 2027 Invited Speakers
+#
+# ANNUAL UPDATE:
+# Create a new file, e.g. 2028.yaml.
+# Add only speakers who have confirmed participation.
+#
+# Example:
+speakers:
+  - name: "John Doe"
+    affiliation: "Example University"
+    talk: "Efficient AI Across the Stack"
+    website: "https://example.org"
+    image: "/images/speakers/2027/john_doe.jpg"
+
+  - name: "John Doe"
+    affiliation: "Example University"
+    talk: "Efficient AI Across the Stack"
+    website: "https://example.org"
+    image: "/images/speakers/2027/john_doe.jpg"
+    
+  - name: "John Doe"
+    affiliation: "Example University"
+    talk: "Efficient AI Across the Stack"
+    website: "https://example.org"
+    image: "/images/speakers/2027/john_doe.jpg"
+
+  - name: "John Doe"
+    affiliation: "Example University"
+    talk: "Efficient AI Across the Stack"
+    website: "https://example.org"
+    image: "/images/speakers/2027/john_doe.jpg"
+
+    
+# speakers:[]
